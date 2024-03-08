@@ -12,7 +12,7 @@ insert into tbl_titulo
 values
 (1, 'Aventuras Urbanas', 'Uma historia emocionante', 'DRAMA'),
 (2, 'Misterios Antigos', 'Enigmas por resolver','COMEDIA'),
-(3, 'Amor nas Estraelas', 'um romance intergalactico','DRAMA'),
+(3, 'Amor nas Estrelas', 'um romance intergalactico','DRAMA'),
 (4, 'Codigo Enigmatico', 'Segredos ocultos', 'COMEDIA'),
 (5, 'Historias Perdidas', 'Contos esquecidos', 'DRAMA');
 
